@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 git stash file 3
+=======
+git stash test
+>>>>>>> Stashed changes
